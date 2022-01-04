@@ -1,5 +1,5 @@
 # HyQu-Tool
-Helps juggle complicated Hamiltonians. Built for the HyQu Group at ETH.
+Helps juggle complicated Hamiltonians. Built for the HyQu Group (https://hyqu.ethz.ch/) at ETH.
 
 Jump into the Tutorial to learn how to use this tool!
 
